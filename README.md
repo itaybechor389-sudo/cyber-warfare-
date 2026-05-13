@@ -1,4 +1,4 @@
-# ⬡ PHANTOM — Red Team Operations Suite
+# ⬡ PHANTOM - Red Team Operations Suite
 
 
 **A professional Red Team Operations GUI tool built for the Cyber Warfare.**  
