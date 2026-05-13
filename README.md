@@ -2,7 +2,7 @@
 
 
 **A professional Red Team Operations GUI tool built for the Cyber Warfare.**  
-Covers the full offensive lifecycle — from payload generation to post-exploitation and evasion.
+Covers the full offensive lifecycle - from payload generation to post-exploitation and evasion.
 
 </div>
 
